@@ -1,0 +1,37 @@
+
+
+
+.flex-container2{
+    padding: 10px;
+    background-color: white;
+
+    height: 450px;
+    /* margin: 400px; */
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.abc {
+    margin: 10px;
+}
+
+
+.bcd {
+    margin: 10px;
+}
+
+.phoneno
+{
+    margin: 10px;
+}
+
+.email{
+    margin: 10px;
+}
+
+
+
